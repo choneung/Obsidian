@@ -3,3 +3,5 @@
 ![[Pasted image 20260719185201.png]]
 
 ![[Pasted image 20260719185025.png]]![[Pasted image 20260719185136.png]]
+단축키 ( 수동 동기화 )
+![[Pasted image 20260719191031.png]]

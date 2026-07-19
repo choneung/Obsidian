@@ -1,0 +1,11 @@
+# Obsidian - 기기마다 다른 작업 화면
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 편집기 임시 파일
+*.swp
+*.tmp
